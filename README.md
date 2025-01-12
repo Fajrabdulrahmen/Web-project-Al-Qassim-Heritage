@@ -8,11 +8,11 @@ Here are some images of the project pages:
 - Homepage  
   ![Homepage](Images/Home%20page.png)
 
-- Login Page  
-  ![Login Page](Images/Login%20page.png)
+- Dates Types Page  
+  ![Dates Types Page](Images/Dates%20types%20page.png)
 
-- Register Page  
-  ![Register Page](Images/Register%20page.png)
+- Dates Benefits Page  
+  ![Dates Benefits Page](Images/Dates%20benefits%20page.png)
 
 - Store Page  
   ![Store Page](Images/Store%20page.png)
@@ -20,8 +20,8 @@ Here are some images of the project pages:
 - Basket Page  
   ![Basket Page](Images/Basket%20page.png)
 
-- Dates Types Page  
-  ![Dates Types Page](Images/Dates%20types%20page.png)
+- Register Page  
+  ![Register Page](Images/Register%20page.png)
 
-- Dates Benefits Page  
-  ![Dates Benefits Page](Images/Dates%20benefits%20page.png)
+- Login Page  
+  ![Login Page](Images/Login%20page.png)
